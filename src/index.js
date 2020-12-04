@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import App from './components/App';
+import State from './components/State';
 
-// ReactDOM.render(<App />, document.getElementById('app'));
+ ReactDOM.render(<State />, document.getElementById('app'));
